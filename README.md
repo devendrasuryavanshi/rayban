@@ -1,5 +1,5 @@
 # 🚀 Modern Web Design Landing Page: Ray-Ban
-[![Visit the Site](https://img.shields.io/badge/Visit%20the%20Site-Here-brightgreen)](https://devendrasuryavanshi.github.io/Spotify-Clone/)
+[![Visit the Site](https://devendrasuryavanshi.github.io/rayban/)
 
 Welcome to the **Modern Web Design Landing Page: Ray-Ban** project. This dynamic landing page showcases a visually captivating design, created using a combination of HTML, CSS, and JavaScript. Whether you're seeking inspiration for your own web design project or you're curious about web design capabilities, this page offers a striking example.
 
